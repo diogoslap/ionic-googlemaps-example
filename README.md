@@ -3,7 +3,7 @@ An ionic v4 project example using GoogleMaps plugin cordova.
 In order to use this project, you need to generate API keys at the Google Developers Console.
 Please follow the instruction.
 
-- [How to generate API keys?](./api_key/generate_api_key.md)
+- [How to generate API keys?](https://github.com/ionic-team/ionic-native-google-maps/blob/master/documents/api_key/generate_api_key.md)
 
 Change the config.xml and package.json with your key to the env GOOGLE_API_KEY_FOR_ANDROID
 
